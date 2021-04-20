@@ -1,0 +1,136 @@
+* {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+ }
+
+
+
+
+body{
+     font-family: 'Roboto', sans-serif;
+     background-color:#ebebeb;
+}
+
+h2{
+font-size: 24px;
+
+}
+
+.Price{
+     font-size:18px;
+     color:rgb(60, 60, 60);
+}
+
+p{
+     font-size: 12px;
+}
+
+.descript{
+     font-size: 16px;
+}
+
+.desc{
+     font-size: 16px;
+     color: #39b54a;
+}
+
+h4{
+     font-size: 20px;
+}
+
+.fas{
+     color: #39b54a;
+}
+
+
+
+.final{
+     color: #1259c3 ;
+}
+
+img{
+     width: 50%;
+     height:50% ;
+    
+}
+
+.nav{
+     color:black
+}
+
+header{
+     background-color:red;
+}
+
+.busqueda{
+     width: 50%;
+     height: 50%;
+}
+
+.navbar{
+     display:none
+}
+
+.centro{
+   text-align: center;  
+}
+
+#BotonMenu {
+     margin: 20px 0px;
+     width: 40px;
+     height: 40px;
+     background-color: white;
+     color: black;
+     font-size: 20px;
+     padding: 10px;
+     border-radius: 5px;
+   }
+
+   #BotonMenu:hover {
+     cursor: pointer;
+     background-color: #82aa00;
+   }
+
+   .container{
+        width: 100%;
+        margin-top: auto;
+        margin-bottom: auto;
+   }
+
+   .margin{
+        margin: 20px;
+        font-size: 4;
+   }
+
+   .products{
+        margin:10px;
+        padding:15px;
+        background-color: white;
+        border-radius: 15px;
+        box-sizing: border-box;
+        
+        
+   }
+
+   .pie{
+     margin:20px 0px;
+     
+   }
+
+   footer{
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: white;
+   }
+   
+   .width{
+     width: 100%;
+     height:300px;
+}
+
+
+
+

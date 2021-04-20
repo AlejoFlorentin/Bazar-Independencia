@@ -1,0 +1,52 @@
+body{
+     font-family: 'Roboto', sans-serif;
+     background-color:#ebebeb;
+}
+
+img{
+     width: 360px;
+     height:400px ;
+}
+
+footer{
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     background-color: white;
+}
+
+.final{
+     color: #1259c3 ;
+}
+
+.descript{
+     font-size: 16px;
+}
+
+p{
+     font-size: 12px;
+}
+
+.inp{
+     width: 100%;
+     padding: 10px;
+     margin: 20px 0px;
+     border-radius: 5px;
+     box-sizing: border-box;
+}
+
+
+.submit{
+     width: 100%;
+     padding: 10px;
+     margin: 20px 0px;
+     border-radius: 5px;
+     box-sizing: border-box;
+     color: white;
+     background-color: red;
+}
+
+.sex{
+     font-size: 16px;
+}
